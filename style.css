@@ -1,0 +1,82 @@
+.profile-img{
+    padding-left: 4%;
+    position: relative;
+    justify-content: center;
+    
+    border-radius: 50%;;
+}
+
+.profile-pic{
+    padding-top: 10px;
+    padding-right: 15%;
+}
+.navbar{
+    padding-left: 3%;
+    padding-top: 2%;
+    position: relative;
+}
+#home-page{
+    background-image: url(depositphotos_38578719-stock-photo-beautiful-mountains.jpg);
+    background-size: cover;
+}
+
+#skills{
+    margin-top: 15px;
+    padding: 5% 10%;
+    position: relative;
+    background-color: #ECF8F9;
+}
+.section-title h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    position: relative;
+    color: #173b6c;
+}
+.features{
+    
+    padding: 3%;
+}
+#contact-me{
+   
+    
+    
+    padding: 3% 10%;
+}
+
+#footer {
+    
+    padding: 7% 30%;
+    position: absolute;
+}
+.icons {
+  
+    margin: 12px 8px;
+   
+}
+a{
+    
+   
+    font-size: 3rem;
+}
+.contact-list{
+    text-align: center;
+}
+.fab {
+    font-weight: 600;
+}
+.fab {
+    font-family: "Font Awesome 5 Brands";
+}
+.fab  {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+   
+    font-style: normal;
+   
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 2;
+}
+
